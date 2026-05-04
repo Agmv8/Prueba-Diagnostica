@@ -137,4 +137,5 @@ node nombre_archivo.js
 El proyecto demuestra la aplicación práctica de conceptos fundamentales de programación y compiladores mediante la implementación de algoritmos de generación combinatoria, validación sintáctica y análisis léxico básico en dos lenguajes distintos.
 
 ---
-Link de la Defensa
+## Link de la Defensa
+https://youtu.be/qBrh2f1c61E
